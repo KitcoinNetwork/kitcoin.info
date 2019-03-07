@@ -1005,7 +1005,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
       Half Layouts
 ========================================================*/
 .main-half-layout {
-	background: url(../images/ico-tech.jpg) center center no-repeat;
+	background: url(../images/biz-network.jpg) center center no-repeat;
 	width: 50%;
 	height: 100%;
 	position: absolute;
@@ -1389,7 +1389,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	top: 9px;
 	width: 30px;
 	background: #0b0c22;
-}
+}/*
 .road-map .edu-list li:nth-last-child(1) {
 	margin-bottom: 0px;
 }
@@ -1407,7 +1407,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 }
 .road-map .edu-list li:nth-last-child(1) {
 	border-bottom: 0px;
-}
+}*/
 /*=======================================================
 			NewLetter
 ========================================================*/
