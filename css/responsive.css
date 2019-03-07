@@ -49,7 +49,7 @@
 }
 .road-map .edu-list li {
 	width: 33.3333%;
-}
+}/*
 .road-map .edu-list li:nth-last-child(3){
 	border-bottom:0px;
 }
@@ -58,7 +58,7 @@
 }
 .road-map .edu-list li:nth-last-child(1){
 	border-bottom:0px;
-}
+}*/
 }
 @media(max-width:1200px) {
 .arrival-block .item-name a {
@@ -81,13 +81,13 @@
 }
 .team.style-2 .team-small li img{
 	width:100%;
-}
+}/*
 .road-map .edu-list li:nth-last-child(2){
 	border-bottom:0px;
 }
 .road-map .edu-list li:nth-last-child(1){
 	border-bottom:0px;
-}
+}*/
 }
 @media(max-width:1024px) {
 .fst-up {
