@@ -1049,8 +1049,8 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 			Count Info
 ========================================================*/
 .count-info {
-	margin-top: 50px;
-	margin-bottom: 50px;
+	/*margin-top: 50px;
+	margin-bottom: 50px;*/
 }
 .count-info li {
 }
